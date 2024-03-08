@@ -1,0 +1,20 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Site development",
+      "type": "income",
+      "category": "Sold",
+      "price": 14000,
+      "createdAt": "2024-03-08T17:29:13.383Z"
+    },
+    {
+      "id": 2,
+      "description": "Hanburguer",
+      "type": "outcome",
+      "category": "Food",
+      "price": 50,
+      "createdAt": "2024-03-08T13:29:13.383Z"
+    }
+  ]
+}
