@@ -1,7 +1,7 @@
 {
   "transactions": [
     {
-      "id": 1,
+      "id": "1",
       "description": "Site development",
       "type": "income",
       "category": "Sold",
@@ -9,12 +9,28 @@
       "createdAt": "2024-03-08T17:29:13.383Z"
     },
     {
-      "id": 2,
-      "description": "Hanburguer",
+      "id": "2",
+      "description": "Hamburguer",
       "type": "outcome",
       "category": "Food",
       "price": 50,
       "createdAt": "2024-03-08T13:29:13.383Z"
+    },
+    {
+      "id": "011b",
+      "category": "Alimentação",
+      "description": "Comida",
+      "price": 20,
+      "type": "outcome",
+      "createdAt": "2024-03-10T22:40:25.479Z"
+    },
+    {
+      "id": "be2c",
+      "category": "Alimentação",
+      "description": "Café",
+      "price": 10,
+      "type": "outcome",
+      "createdAt": "2024-03-10T23:00:59.003Z"
     }
   ]
 }
